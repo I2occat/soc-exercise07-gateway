@@ -1,5 +1,4 @@
-[![CircleCI](https://circleci.com/gh/I2occat/soc-exercise-06-gateway.svg?style=svg)](https://app.circleci.com/pipelines/github/I2occat/soc-exercise-06-gateway)
-# soc-exercise-06-gateway
-soc-exercise-06
+# soc-exercise-07-gateway
+soc-exercise-07
 
 gateway-application
